@@ -19,4 +19,4 @@ The pull request allows changes to be reviewed before they are merged into the m
 
 ## Experiment 15
 
-This change was made on the conflict-feature branch.
+This change was made while resolving a merge conflict in Experiment 15.
